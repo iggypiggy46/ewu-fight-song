@@ -5,7 +5,7 @@
 ## Citations
 * [Open Props](https://open-props.style/)
 * [YouTube](https://www.youtube.com/watch?v=h1BIRNVdugw)
-
+* [FaviconGenerator](https://favicon.io/favicon-converter/)
 ## Lyrics
 Go, Eagles, Go
 Put all you have in every play
